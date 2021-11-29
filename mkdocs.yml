@@ -1,0 +1,27 @@
+site_name: Trisolaris Docs
+pages:
+- Home: index.md
+- Tokenomics: tokenomics.md
+- Contracts: contracts.md
+- Frequently Asked Questions (FAQ): faq.md
+theme:
+  name: material
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
+  features:
+    - navigation.top
+extra_css:
+  - stylesheets/extra.css
+repo_url: https://github.com/trisolaris-labs/docs
+markdown_extensions:
+  - toc:
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/trisolarislabs
+    - icon: fontawesome/brands/github
+      link: https://github.com/trisolaris-labs
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@0xchain
+    
