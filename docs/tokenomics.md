@@ -27,11 +27,12 @@ Liquidity providers who stake their LP tokens from the following pools in the [F
 | Pool       | TRI Allocation (%) | LP Address                                 | Explorer Link                                                                                       |
 |------------|--------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | wNEAR-TRI  |                 22 | `0x84b123875F0F36B966d0B6Ca14b31121bd9676AD`  | [Link](https://explorer.mainnet.aurora.dev/address/0x84b123875F0F36B966d0B6Ca14b31121bd9676AD/transactions) |
-| wNEAR-ETH  |                 14 | `0x63da4DB6Ef4e7C62168aB03982399F9588fCd198` | [Link](https://explorer.mainnet.aurora.dev/address/0x63da4DB6Ef4e7C62168aB03982399F9588fCd198/transactions) |
-| wNEAR-USDC |                 14 | `0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0` | [Link](https://explorer.mainnet.aurora.dev/address/0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0/transactions) |
-| wNEAR-USDT |                 14 | `0x03B666f3488a7992b2385B12dF7f35156d7b29cD` | [Link](https://explorer.mainnet.aurora.dev/address/0x03B666f3488a7992b2385B12dF7f35156d7b29cD/transactions) |
-| USDC-USDT  |                 14 | `0x2fe064B6c7D274082aa5d2624709bC9AE7D16C77` | [Link](https://explorer.mainnet.aurora.dev/address/0x2fe064B6c7D274082aa5d2624709bC9AE7D16C77/transactions) |
-| wNEAR-WBTC |                 14 | `0xbc8A244e8fb683ec1Fd6f88F3cc6E565082174Eb` | [Link](https://explorer.mainnet.aurora.dev/address/0xbc8A244e8fb683ec1Fd6f88F3cc6E565082174Eb/transaction) | 
-| AURORA-ETH  |                8 | `0x5eeC60F348cB1D661E4A5122CF4638c7DB7A886e` | [Link](https://explorer.mainnet.aurora.dev/address/0x5eeC60F348cB1D661E4A5122CF4638c7DB7A886e/transactions) |
+| wNEAR-ETH  |                 13 | `0x63da4DB6Ef4e7C62168aB03982399F9588fCd198` | [Link](https://explorer.mainnet.aurora.dev/address/0x63da4DB6Ef4e7C62168aB03982399F9588fCd198/transactions) |
+| wNEAR-USDC |                 13 | `0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0` | [Link](https://explorer.mainnet.aurora.dev/address/0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0/transactions) |
+| wNEAR-USDT |                 13 | `0x03B666f3488a7992b2385B12dF7f35156d7b29cD` | [Link](https://explorer.mainnet.aurora.dev/address/0x03B666f3488a7992b2385B12dF7f35156d7b29cD/transactions) |
+| USDC-USDT  |                 12 | `0x2fe064B6c7D274082aa5d2624709bC9AE7D16C77` | [Link](https://explorer.mainnet.aurora.dev/address/0x2fe064B6c7D274082aa5d2624709bC9AE7D16C77/transactions) |
+| wNEAR-WBTC |                 13 | `0xbc8A244e8fb683ec1Fd6f88F3cc6E565082174Eb` | [Link](https://explorer.mainnet.aurora.dev/address/0xbc8A244e8fb683ec1Fd6f88F3cc6E565082174Eb/transaction) | 
+| AURORA-ETH  |                4 | `0x5eeC60F348cB1D661E4A5122CF4638c7DB7A886e` | [Link](https://explorer.mainnet.aurora.dev/address/0x5eeC60F348cB1D661E4A5122CF4638c7DB7A886e/transactions) |
+| TRI-AURORA  |                10 | `0xd1654a7713617d41A8C9530Fb9B948d00e162194` | [Link](https://explorer.mainnet.aurora.dev/address/0xd1654a7713617d41A8C9530Fb9B948d00e162194/transactions) |
 
 
