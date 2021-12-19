@@ -17,7 +17,7 @@ This fee % as well as where they flow to can both be adjusted in the future via 
 
 * **70%** Community + Liquidity Incentives
 * **15%** Treasury : For future strategic partnerships, investors, and more
-* **15%** Current & Future Team : 1 month cliff and vesting over 12 months
+* **15%** Current & Future Team : 4 month lockup, followed by 12 month vesting. See full details [here](https://medium.com/trisolaris-labs/update-team-advisors-token-vesting-9ced4bc72aee)
 
 
 # Incentivized Pools
