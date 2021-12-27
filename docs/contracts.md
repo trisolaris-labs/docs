@@ -24,6 +24,9 @@ We have deployed the following contracts on the Aurora engine.
 * USDC-USDT: `0x2fe064B6c7D274082aa5d2624709bC9AE7D16C77`
 * wNEAR-WBTC: `0xbc8A244e8fb683ec1Fd6f88F3cc6E565082174Eb`
 * TRI-AURORA: `0xd1654a7713617d41A8C9530Fb9B948d00e162194`
+* wNEAR-LUNA: `0xdF8CbF89ad9b7dAFdd3e37acEc539eEcC8c47914`
+* wNEAR-UST: `0xa9eded3E339b9cd92bB6DEF5c5379d678131fF90`
+* TRI-USDT: `0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c`
 
 
 ## Rewarder Contracts (for multi rewards)
