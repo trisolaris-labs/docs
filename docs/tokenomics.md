@@ -19,6 +19,65 @@ This fee % as well as where they flow to can both be adjusted in the future via 
 * **15%** Treasury : For future strategic partnerships, investors, and more
 * **15%** Current & Future Team : 4 month lockup, followed by 12 month vesting. See full details [here](https://medium.com/trisolaris-labs/update-team-advisors-token-vesting-9ced4bc72aee)
 
+# Emissions
+
+As we move forward, over the course of 3 years, we aim to systematically reduce the rate of emissions across our liquidity mining programs. The first of these gradual reductions in emissions will begin in February 2022.
+
+Here is a chart that provides a full view of the overall TRI supply distribution and how it comes into circulation:
+
+![Emissions Graph](img/emissions.png) 
+
+Brief overview of the different segments above:
+
+- **Farming Rewards**: The current and future emissions across all liquidity mining farms on Trisolaris.
+- **Team/Advisors**: Vesting TRI tokens allocated for the team and advisors. More info around our plan with these tokens [here](https://medium.com/trisolaris-labs/update-team-advisors-token-vesting-9ced4bc72aee).
+- **Marketing & Community**: This is a general category that encompasses TRI held in the treasury at the moment that will be used over time for additional community incentives (such as our [recently announced retroactive airdrop](https://medium.com/trisolaris-labs/merry-christmas-from-trisolaris-29671fda22af)).
+- **Future Strategic Investors**: This is a portion of the token treasury that is an allocation held out for future strategic investors*.* It means that in the case that Trisolaris were to raise investor funds in the future (to scale up the team or grow the project further), these would be the tokens allocated for them. These would be vesting over time.
+
+### Emissions Schedule By Month:
+
+**Month**|**TRI Per Block**
+:-----:|:-----:
+Nov 2021|5
+Dec 2021|5
+Jan 2022|5
+Feb 2022|4.75
+Mar 2022|4.75
+Apr 2022|4.5
+May 2022|4.5
+Jun 2022|4
+Jul 2022|4
+Aug 2022|3.75
+Sep 2022|3.75
+Oct 2022|3.75
+Nov 2022|3.75
+Dec 2022|3.5
+Jan 2023|3.5
+Feb 2023|3.5
+Mar 2023|3.5
+Apr 2023|3.25
+May 2023|3.25
+Jun 2023|3.25
+Jul 2023|3.25
+Aug 2023|3
+Sep 2023|3
+Oct 2023|3
+Nov 2023|3
+Dec 2023|3
+Jan 2024|3
+Feb 2024|2.75
+Mar 2024|2.75
+Apr 2024|2.75
+May 2024|2.75
+Jun 2024|2.75
+Jul 2024|2.75
+Aug 2024|2.5
+Sep 2024|2.5
+Oct 2024|2.5
+Nov 2024|2.5
+
+
+
 
 # Incentivized Pools
 
