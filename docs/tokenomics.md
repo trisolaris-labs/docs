@@ -86,6 +86,7 @@ Liquidity providers who stake their LP tokens from the following pools in the [F
 | Pool       | TRI Allocation (%) | LP Address                                 | Explorer Link                                                                                       |
 |------------|--------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | wNEAR-TRI  |                 22 | `0x84b123875F0F36B966d0B6Ca14b31121bd9676AD`  | [Link](https://explorer.mainnet.aurora.dev/address/0x84b123875F0F36B966d0B6Ca14b31121bd9676AD/transactions) |
+| TRI-USDT  |                10 | `0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c` | [Link](https://explorer.mainnet.aurora.dev/address/0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c/transactions) |
 | wNEAR-ETH  |                 11 | `0x63da4DB6Ef4e7C62168aB03982399F9588fCd198` | [Link](https://explorer.mainnet.aurora.dev/address/0x63da4DB6Ef4e7C62168aB03982399F9588fCd198/transactions) |
 | wNEAR-USDC |                 11 | `0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0` | [Link](https://explorer.mainnet.aurora.dev/address/0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0/transactions) |
 | wNEAR-USDT |                 11 | `0x03B666f3488a7992b2385B12dF7f35156d7b29cD` | [Link](https://explorer.mainnet.aurora.dev/address/0x03B666f3488a7992b2385B12dF7f35156d7b29cD/transactions) |
@@ -95,6 +96,8 @@ Liquidity providers who stake their LP tokens from the following pools in the [F
 | TRI-AURORA  |                7 | `0xd1654a7713617d41A8C9530Fb9B948d00e162194` | [Link](https://explorer.mainnet.aurora.dev/address/0xd1654a7713617d41A8C9530Fb9B948d00e162194/transactions) |
 | wNEAR-LUNA  |                1 | `0xdF8CbF89ad9b7dAFdd3e37acEc539eEcC8c47914` | [Link](https://explorer.mainnet.aurora.dev/address/0xdF8CbF89ad9b7dAFdd3e37acEc539eEcC8c47914/transactions) |
 | wNEAR-UST  |                1 | `0xa9eded3E339b9cd92bB6DEF5c5379d678131fF90` | [Link](https://explorer.mainnet.aurora.dev/address/0xa9eded3E339b9cd92bB6DEF5c5379d678131fF90/transactions) |
-| TRI-USDT  |                13 | `0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c` | [Link](https://explorer.mainnet.aurora.dev/address/0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c/transactions) |
+| wNEAR-AVAX  |                1 | `0x6443532841a5279cb04420E61Cf855cBEb70dc8C` | [Link](https://explorer.mainnet.aurora.dev/address/0x6443532841a5279cb04420E61Cf855cBEb70dc8C/transactions) |
+| TRI-BNB |                1 | `0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA` | [Link](https://explorer.mainnet.aurora.dev/address/0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA/transactions) |
+| TRI-MATIC |                1 | `0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071` | [Link](https://explorer.mainnet.aurora.dev/address/0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071/transactions) |
 
 
