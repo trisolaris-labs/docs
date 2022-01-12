@@ -97,7 +97,7 @@ Liquidity providers who stake their LP tokens from the following pools in the [F
 | wNEAR-LUNA  |                1 | `0xdF8CbF89ad9b7dAFdd3e37acEc539eEcC8c47914` | [Link](https://explorer.mainnet.aurora.dev/address/0xdF8CbF89ad9b7dAFdd3e37acEc539eEcC8c47914/transactions) |
 | wNEAR-UST  |                1 | `0xa9eded3E339b9cd92bB6DEF5c5379d678131fF90` | [Link](https://explorer.mainnet.aurora.dev/address/0xa9eded3E339b9cd92bB6DEF5c5379d678131fF90/transactions) |
 | wNEAR-AVAX  |                1 | `0x6443532841a5279cb04420E61Cf855cBEb70dc8C` | [Link](https://explorer.mainnet.aurora.dev/address/0x6443532841a5279cb04420E61Cf855cBEb70dc8C/transactions) |
-| TRI-BNB |                1 | `0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA` | [Link](https://explorer.mainnet.aurora.dev/address/0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA/transactions) |
-| TRI-MATIC |                1 | `0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071` | [Link](https://explorer.mainnet.aurora.dev/address/0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071/transactions) |
+| wNEAR-BNB |                1 | `0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA` | [Link](https://explorer.mainnet.aurora.dev/address/0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA/transactions) |
+| wNEAR-MATIC |                1 | `0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071` | [Link](https://explorer.mainnet.aurora.dev/address/0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071/transactions) |
 
 
