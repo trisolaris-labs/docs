@@ -27,6 +27,9 @@ We have deployed the following contracts on the Aurora engine.
 * wNEAR-LUNA: `0xdF8CbF89ad9b7dAFdd3e37acEc539eEcC8c47914`
 * wNEAR-UST: `0xa9eded3E339b9cd92bB6DEF5c5379d678131fF90`
 * TRI-USDT: `0x61C9E05d1Cdb1b70856c7a2c53fA9c220830633c`
+* wNEAR-AVAX: `0x6443532841a5279cb04420E61Cf855cBEb70dc8C`
+* wNEAR-BNB: `0x7be4a49AA41B34db70e539d4Ae43c7fBDf839DfA`
+* wNEAR-MATIC: `0x3dC236Ea01459F57EFc737A12BA3Bb5F3BFfD071`
 
 
 ## Rewarder Contracts (for multi rewards)
