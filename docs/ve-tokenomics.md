@@ -18,3 +18,7 @@ Gauges are how vexTRI holders can vote and direct stable swap fees to their pref
 Token bribes essentially incentivise vexTRI holders to vote on specific gauges whilst gaining extra rewards.
 
 > Bribes can only be in the form of TRI tokens.
+
+## Liquidity Flow
+
+[//TODO: Figma explorable diagram goes here]()
