@@ -21,4 +21,4 @@ Token bribes essentially incentivise vexTRI holders to vote on specific gauges w
 
 ## Liquidity Flow
 
-[//TODO: Figma explorable diagram goes here]()
+[Explore in Figma!](https://www.figma.com/file/j3LDJ1EolqL9uDzbLM1L7e/vexTRI?node-id=0%3A1)
