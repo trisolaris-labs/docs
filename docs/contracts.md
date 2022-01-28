@@ -42,3 +42,8 @@ We have deployed the following contracts on the Aurora engine.
 * wNEAR-MECHA Rewarder: `0x9847F7e33CCbC0542b05d15c5cf3aE2Ae092C057`
 
 
+## Testnet deployments
+
+* Factory: [0x60913758635b54e6C9685f92201A5704eEe74748](https://explorer.testnet.aurora.dev/address/0x60913758635b54e6C9685f92201A5704eEe74748/transactions)
+* Router: [0x26ec2aFBDFdFB972F106100A3deaE5887353d9B9](https://explorer.testnet.aurora.dev/address/0x26ec2aFBDFdFB972F106100A3deaE5887353d9B9/transactions)
+* WETH: [0x1b6A3d5B5DCdF7a37CFE35CeBC0C4bD28eA7e946](https://explorer.testnet.aurora.dev/address/0x1b6A3d5B5DCdF7a37CFE35CeBC0C4bD28eA7e946/transactions)
