@@ -3,6 +3,10 @@ pages:
 - Home: index.md
 - Getting Started: gettingstarted.md
 - Bridging Guides: bridgingguides.md
+- 'Products':
+        - 'Exchange': 'exchange.md'
+        - 'Farm': 'farm.md'
+        - 'Stake': 'stake.md'
 - Tokenomics: tokenomics.md
 - Roadmap: roadmap.md
 - Contracts: contracts.md
