@@ -47,6 +47,21 @@ We have deployed the following contracts on the Aurora engine.
 * XTRI-STNEAR Rewarder: `0x7B9e31BbEdbfdc99e3CC8b879b9a3B1e379Ce530`
 * wNEAR-stNEAR Rewarder: `0xf267212F1D8888e0eD20BbB0c7C87A089cDe6E88`
 
+## Stableswap Contracts
+* LPToken Base: [0x08800d125088CfCd9b72432383397bAF680f7c3b](https://aurorascan.dev/address/0x08800d125088CfCd9b72432383397bAF680f7c3b)
+* AmplificationUtils: [0x4135b66b138f281e0173550C3fb9A706Acc755ED](https://aurorascan.dev/address/0x4135b66b138f281e0173550C3fb9A706Acc755ED)
+* SwapUtils: [0x518B8E8338864f229f762aAFFC0A9f0c4722900B](https://aurorascan.dev/address/0x518B8E8338864f229f762aAFFC0A9f0c4722900B)
+* LpToken: [0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9](https://aurorascan.dev/address/0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9)
+* SwapFlashLoan: [0x13e7a001EC72AB30D66E2f386f677e25dCFF5F59](https://aurorascan.dev/address/0x13e7a001EC72AB30D66E2f386f677e25dCFF5F59)
+
+    ### Note
+    * LP Token cannot be verified, blocked by internal transactions in aurorascan
+    * **SwapFlashLoan variables**:
+        - Flash swap loan fee: 8bps
+        - Swap fee: 10bps
+        - Admin fee: 0bps
+        - Amplification coefficient: 400
+    * **Amplification coefficient**: The coefficient determines the ratio between stable curve and uniswap curve. The higher the Amplification Coefficient the more closer final stableswap invariant is to stable curve.
 
 
 ## Testnet deployments
