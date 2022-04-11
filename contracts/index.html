@@ -429,6 +429,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#decentralization-conract-verification" class="md-nav__link">
+    Decentralization &amp; Conract Verification
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -524,6 +531,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#decentralization-conract-verification" class="md-nav__link">
+    Decentralization &amp; Conract Verification
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -540,8 +554,6 @@
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
 </a>
 
-
-  <h1>Contracts</h1>
 
 <h2 id="core-dex-contracts">Core DEX Contracts<a class="headerlink" href="#core-dex-contracts" title="Permanent link">&para;</a></h2>
 <p>We have deployed the following contracts on the Aurora engine.</p>
@@ -616,6 +628,19 @@
 <li>Router: <a href="https://explorer.testnet.aurora.dev/address/0x26ec2aFBDFdFB972F106100A3deaE5887353d9B9/transactions">0x26ec2aFBDFdFB972F106100A3deaE5887353d9B9</a></li>
 <li>WETH: <a href="https://explorer.testnet.aurora.dev/address/0x1b6A3d5B5DCdF7a37CFE35CeBC0C4bD28eA7e946/transactions">0x1b6A3d5B5DCdF7a37CFE35CeBC0C4bD28eA7e946</a></li>
 </ul>
+<h1 id="decentralization-conract-verification">Decentralization &amp; Conract Verification<a class="headerlink" href="#decentralization-conract-verification" title="Permanent link">&para;</a></h1>
+<ol>
+<li><strong>Timelock:</strong> Both the Masterchef contracts will be put behind a timelock by the end of Q2 (at the latest). MasterChefm which controls TRI emissions, is behind the treasury multisig so any changes in TRI emission will need collusion/attack on multiple devs.</li>
+<li><strong>Transfer-tax token LPs:</strong> Both Masterchef and MasterchefV2 do not support deflationary/transfer-tax token pools and <strong>none will be added</strong>.</li>
+<li><strong>Contract verification:</strong> Contracts deployed before 19th Oct 2021 or deployed via internal transactions are not identified as contracts via aurorascan but identified as EOA’s. This means that we cannot verify contracts which fall in the above two categories. We are in contact with Aurora and Etherscan teams to fix the issues by end of Q2. The following contracts are affected due to this:<ol>
+<li><code>Factory</code>: <a href="https://aurorascan.dev/address/0xc66F594268041dB60507F00703b152492fb176E7">https://aurorascan.dev/address/0xc66F594268041dB60507F00703b152492fb176E7</a> </li>
+<li><code>Router</code>: <a href="https://aurorascan.dev/address/0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B">https://aurorascan.dev/address/0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B</a> </li>
+<li><code>Treasury Gnosis multisig</code>: <a href="https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3">https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3</a> </li>
+<li>All LP tokens are not-verified</li>
+<li>First 5 rewarder contracts will be verified</li>
+</ol>
+</li>
+</ol>
 
               
             </article>
