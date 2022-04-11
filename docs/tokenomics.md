@@ -19,6 +19,43 @@ This fee % as well as where they flow to can both be adjusted in the future via 
 * **15%** Treasury : For future strategic partnerships, investors, and more
 * **15%** Current & Future Team : 4 month lockup, followed by 12 month vesting. See full details [here](https://medium.com/trisolaris-labs/update-team-advisors-token-vesting-9ced4bc72aee)
 
+### Vesting Contracts:
+Roughy 20% of TRI tokens have been allocated to investors, advisors + team, while ~10% sit in the treasury. 
+
+**Investor & Advisors Vesting Contracts**
+
+`0x1769b68155e6Cf5FD876aCD6F92c0c85783c2002`
+`0xFd44B724Ab5Aa3edF69560Abe34a5A09d82E046b`
+`0xCFCC9889Ad1405f82731E69eB9849A8242DCDa4b`
+`0x4e6431E38f18F7C84CD238A122e046f3f7074367`
+`0x870f320bbd59bf8C55CF1d349DCa64C837367F3D`
+`0x23f0e492Edb81537D93275D4A78e15eAc640AAad`
+`0x23f0e492Edb81537D93275D4A78e15eAc640AAad`
+
+**Team Vesting Contracts**
+
+`0x425856a0b3D5938Ef031FAea1B894d166D078223`
+`0xADBa80e0FB59B813bcb6C0c3bB1136d6C03Ee7aa`
+`0x0A0Dc69d4d6042a961E7f6D9e87B53df0C079E2b`
+`0xA6002C5C9628Ca3F8d1834A7ef5bB32f1Cb2C946`
+`0xCB0A382Bf9AD8ba0b76532261C17B04D902CeA9A`
+`0xD12AA013D245A2c41e481802f6dd16e7D1Dddb8C`
+`0xb25e64048BA7e7EA8CCe29ADeA41b2C9378B2F39`
+
+**Contracts Relocking 70% of vested tokens for early team and advisors [here](https://medium.com/trisolaris-labs/update-team-advisors-token-vesting-9ced4bc72aee)**
+
+`0xc7298A13054293F448Cba26ae056Ae6B5a46050c`
+`0x1972d7A6D20b321bb3d6b8678B15d34Cf8d0691A`
+`0x43019d6d476d3Dcea8DF1B142971045870Ea4d1D`
+`0xf8165F0Ff11962025ABC2b8650FF8e19141d0218`
+`0x1afdCD52B8F1CBA4A3a1F31d95545427aB02c494`
+
+**Treasury Multisig**
+
+`0xf86119de6ee8d4447C8219eEC20E7561d09816d3`
+
+
+
 # Emissions
 
 As we move forward, over the course of 3 years, we aim to systematically reduce the rate of emissions across our liquidity mining programs. The first of these gradual reductions in emissions will begin in February 2022.

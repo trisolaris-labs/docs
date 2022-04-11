@@ -69,3 +69,16 @@ We have deployed the following contracts on the Aurora engine.
 * Factory: [0x60913758635b54e6C9685f92201A5704eEe74748](https://explorer.testnet.aurora.dev/address/0x60913758635b54e6C9685f92201A5704eEe74748/transactions)
 * Router: [0x26ec2aFBDFdFB972F106100A3deaE5887353d9B9](https://explorer.testnet.aurora.dev/address/0x26ec2aFBDFdFB972F106100A3deaE5887353d9B9/transactions)
 * WETH: [0x1b6A3d5B5DCdF7a37CFE35CeBC0C4bD28eA7e946](https://explorer.testnet.aurora.dev/address/0x1b6A3d5B5DCdF7a37CFE35CeBC0C4bD28eA7e946/transactions)
+
+
+
+# Decentralization & Conract Verification
+
+1. **Timelock:** Both the Masterchef contracts will be put behind a timelock by the end of Q2 (at the latest). MasterChefm which controls TRI emissions, is behind the treasury multisig so any changes in TRI emission will need collusion/attack on multiple devs.
+2. **Transfer-tax token LPs:** Both Masterchef and MasterchefV2 do not support deflationary/transfer-tax token pools and **none will be added**.
+3. **Contract verification:** Contracts deployed before 19th Oct 2021 or deployed via internal transactions are not identified as contracts via aurorascan but identified as EOA’s. This means that we cannot verify contracts which fall in the above two categories. We are in contact with Aurora and Etherscan teams to fix the issues by end of Q2. The following contracts are affected due to this:
+    1. `Factory`: [https://aurorascan.dev/address/0xc66F594268041dB60507F00703b152492fb176E7](https://aurorascan.dev/address/0xc66F594268041dB60507F00703b152492fb176E7) 
+    2. `Router`: [https://aurorascan.dev/address/0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B](https://aurorascan.dev/address/0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B) 
+    3. `Treasury Gnosis multisig`: [https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3) 
+    4. All LP tokens are not-verified
+    5. First 5 rewarder contracts will be verified
