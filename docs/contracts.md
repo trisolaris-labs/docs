@@ -48,6 +48,15 @@ We have deployed the following contracts on the Aurora engine.
 * wNEAR-stNEAR Rewarder: `0xf267212F1D8888e0eD20BbB0c7C87A089cDe6E88`
 
 ## Stableswap Contracts
+
+### USDC/USDT/UST/FRAX/USN
+* LPToken Base: [0x1D9CB2F554cE7BE1dbAC6f69A1070694A3337a40](https://aurorascan.dev/address/0x1D9CB2F554cE7BE1dbAC6f69A1070694A3337a40)
+* AmplificationUtils: [0xA141dE86B7f671B4bb1ce64631bE804d4d740c83](https://aurorascan.dev/address/0xA141dE86B7f671B4bb1ce64631bE804d4d740c83)
+* SwapUtils: [0x2A8b7df1F72bE3b78097149b4eF4976fFeb079Fc](https://aurorascan.dev/address/0x2A8b7df1F72bE3b78097149b4eF4976fFeb079Fc)
+* LpToken: [0x467171053355Da79409bf2F931D21ab1f24Fe0A6](https://aurorascan.dev/address/0x467171053355Da79409bf2F931D21ab1f24Fe0A6)
+* SwapFlashLoan: [0xdd407884589b23d2155923b8178bAA0c5725ad9c](https://aurorascan.dev/address/0xdd407884589b23d2155923b8178bAA0c5725ad9c)
+
+### USDC/USDT
 * LPToken Base: [0x08800d125088CfCd9b72432383397bAF680f7c3b](https://aurorascan.dev/address/0x08800d125088CfCd9b72432383397bAF680f7c3b)
 * AmplificationUtils: [0x4135b66b138f281e0173550C3fb9A706Acc755ED](https://aurorascan.dev/address/0x4135b66b138f281e0173550C3fb9A706Acc755ED)
 * SwapUtils: [0x518B8E8338864f229f762aAFFC0A9f0c4722900B](https://aurorascan.dev/address/0x518B8E8338864f229f762aAFFC0A9f0c4722900B)
@@ -81,4 +90,3 @@ We have deployed the following contracts on the Aurora engine.
     2. `Router`: [https://aurorascan.dev/address/0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B](https://aurorascan.dev/address/0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B) 
     3. `Treasury Gnosis multisig`: [https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3) 
     4. All LP tokens are not-verified
-    5. First 5 rewarder contracts will be verified
