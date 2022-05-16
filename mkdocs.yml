@@ -1,5 +1,5 @@
 site_name: Trisolaris Docs
-pages:
+nav:
 - Home: index.md
 - Getting Started: gettingstarted.md
 - Bridging Guides: bridgingguides.md
