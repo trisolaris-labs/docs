@@ -48,6 +48,7 @@ We have deployed the following contracts on the Aurora engine.
 * AURORA-wNEAR : `0x1e0e812FBcd3EB75D8562AD6F310Ed94D258D008`
 * wNEAR-USDC : `0x20F8AeFB5697B77E0BB835A8518BE70775cdA1b0`
 * wNEAR-USDT : `0x03B666f3488a7992b2385B12dF7f35156d7b29cD`
+* BSTN-wNEAR : `0xBBf3D4281F10E537d5b13CA80bE22362310b2bf9`
 
 ## Rewarder Contracts (for multi rewards)
 
@@ -70,6 +71,7 @@ We have deployed the following contracts on the Aurora engine.
 * AURORA-wNEAR Rewarder: `0x34c58E960b80217fA3e0323d37563c762a131AD9`
 * wNEAR-USDC Rewarder: `0x84C8B673ddBF0F647c350dEd488787d3102ebfa3`
 * wNEAR-USDT Rewarder: `0x4e0152b260319e5131f853AeCB92c8f992AA0c97`
+* BSTN-wNEAR : `0xDc6d09f5CC085E29972d192cB3AdCDFA6495a741`
 
 ## Stableswap Contracts
 * LPToken Base: [0x08800d125088CfCd9b72432383397bAF680f7c3b](https://aurorascan.dev/address/0x08800d125088CfCd9b72432383397bAF680f7c3b)
