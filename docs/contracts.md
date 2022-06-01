@@ -75,12 +75,12 @@ We have deployed the following contracts on the Aurora engine.
 
 ## Stableswap Contracts
 
-### USDC/USDT/UST/FRAX/USN
-* LPToken Base: [0x1D9CB2F554cE7BE1dbAC6f69A1070694A3337a40](https://aurorascan.dev/address/0x1D9CB2F554cE7BE1dbAC6f69A1070694A3337a40)
-* AmplificationUtils: [0xA141dE86B7f671B4bb1ce64631bE804d4d740c83](https://aurorascan.dev/address/0xA141dE86B7f671B4bb1ce64631bE804d4d740c83)
-* SwapUtils: [0x2A8b7df1F72bE3b78097149b4eF4976fFeb079Fc](https://aurorascan.dev/address/0x2A8b7df1F72bE3b78097149b4eF4976fFeb079Fc)
-* LpToken: [0x467171053355Da79409bf2F931D21ab1f24Fe0A6](https://aurorascan.dev/address/0x467171053355Da79409bf2F931D21ab1f24Fe0A6)
-* SwapFlashLoan: [0xdd407884589b23d2155923b8178bAA0c5725ad9c](https://aurorascan.dev/address/0xdd407884589b23d2155923b8178bAA0c5725ad9c)
+### USDC/USDT/USN
+* LPToken Base: [0xB77190A4fD2528d2Bb778B409FB5224f7ffaCB24](https://aurorascan.dev/address/0xB77190A4fD2528d2Bb778B409FB5224f7ffaCB24)
+* AmplificationUtils: [0x114ECaa70256aFAd393f733aA4B4bF61c8959fc2](https://aurorascan.dev/address/0x114ECaa70256aFAd393f733aA4B4bF61c8959fc2)
+* SwapUtils: [0x0564d68404608599e8c567A0bD74F90a942A69A0](https://aurorascan.dev/address/0x0564d68404608599e8c567A0bD74F90a942A69A0)
+* LpToken: [0x87BCC091d0A7F9352728100268Ac8D25729113bB](https://aurorascan.dev/address/0x87BCC091d0A7F9352728100268Ac8D25729113bB)
+* SwapFlashLoan: [0x458459E48dbAC0C8Ca83F8D0b7b29FEfE60c3970](https://aurorascan.dev/address/0x458459E48dbAC0C8Ca83F8D0b7b29FEfE60c3970)
 
 ### USDC/USDT
 * LPToken Base: [0x08800d125088CfCd9b72432383397bAF680f7c3b](https://aurorascan.dev/address/0x08800d125088CfCd9b72432383397bAF680f7c3b)
