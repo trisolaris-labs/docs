@@ -49,3 +49,7 @@ This is because every swap on Trisolaris, a 0.05% fee is charged and sent to the
 - You will receive your original staked TRI tokens, plus your share of TRI token rewards from fees.
 
 ![Farm](img/unstake.png)
+
+### pTRI UI is live now, updated docs coming!!!
+
+![Farm](img/ptri.png)

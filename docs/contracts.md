@@ -12,6 +12,10 @@ We have deployed the following contracts on the Aurora engine.
 * TRI ERC20: `0xFa94348467f64D5A457F75F8bc40495D33c65aBB`
 * xTRI (Tribar): `0x802119e4e253D5C19aA06A5d567C5a41596D6803`
 * Tri Maker: `0xe793455c9728fc91A3E5a33FAfF9eB2F228aE151`
+* pTRI (profit TRI): [0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689](https://aurorascan.dev/address/0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689)
+* USDC Maker: [0x5EBd5e963A00500B6a1234c621811c52AF0aAade](https://aurorascan.dev/address/0x5EBd5e963A00500B6a1234c621811c52AF0aAade)
+* Stable LP Maker: [0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF](https://aurorascan.dev/address/0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF)
+* DAO: [0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3)
 
 
 ## LP Pool Pair Addresses
