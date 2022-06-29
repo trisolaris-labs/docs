@@ -15,6 +15,7 @@ We have deployed the following contracts on the Aurora engine.
 * pTRI (profit TRI): [0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689](https://aurorascan.dev/address/0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689)
 * USDC Maker: [0x5EBd5e963A00500B6a1234c621811c52AF0aAade](https://aurorascan.dev/address/0x5EBd5e963A00500B6a1234c621811c52AF0aAade)
 * Stable LP Maker: [0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF](https://aurorascan.dev/address/0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF)
+* Stable LP Maker v2: [0x2DF95Be842cd68062Ecdb7a30cA8dD400a8ab86B](https://aurorascan.dev/address/0x2DF95Be842cd68062Ecdb7a30cA8dD400a8ab86B)
 * DAO: [0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3)
 
 
