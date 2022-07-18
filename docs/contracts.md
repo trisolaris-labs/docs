@@ -16,6 +16,7 @@ We have deployed the following contracts on the Aurora engine.
 * USDC Maker: [0x5EBd5e963A00500B6a1234c621811c52AF0aAade](https://aurorascan.dev/address/0x5EBd5e963A00500B6a1234c621811c52AF0aAade)
 * Stable LP Maker: [0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF](https://aurorascan.dev/address/0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF)
 * Stable LP Maker v2: [0x2DF95Be842cd68062Ecdb7a30cA8dD400a8ab86B](https://aurorascan.dev/address/0x2DF95Be842cd68062Ecdb7a30cA8dD400a8ab86B)
+* Stable LP Maker v3: [0x84c1b1986766fD32cfAC340f947217bd1fB8ADed](https://aurorascan.dev/address/0x84c1b1986766fD32cfAC340f947217bd1fB8ADed)
 * DAO: [0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3)
 
 
@@ -94,11 +95,19 @@ We have deployed the following contracts on the Aurora engine.
 * SwapFlashLoan: [0x458459E48dbAC0C8Ca83F8D0b7b29FEfE60c3970](https://aurorascan.dev/address/0x458459E48dbAC0C8Ca83F8D0b7b29FEfE60c3970)
 
 ### USDC/USDT
-* LPToken Base: [0x08800d125088CfCd9b72432383397bAF680f7c3b](https://aurorascan.dev/address/0x08800d125088CfCd9b72432383397bAF680f7c3b)
-* AmplificationUtils: [0x4135b66b138f281e0173550C3fb9A706Acc755ED](https://aurorascan.dev/address/0x4135b66b138f281e0173550C3fb9A706Acc755ED)
-* SwapUtils: [0x518B8E8338864f229f762aAFFC0A9f0c4722900B](https://aurorascan.dev/address/0x518B8E8338864f229f762aAFFC0A9f0c4722900B)
-* LpToken: [0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9](https://aurorascan.dev/address/0x5EB99863f7eFE88c447Bc9D52AA800421b1de6c9)
-* SwapFlashLoan: [0x13e7a001EC72AB30D66E2f386f677e25dCFF5F59](https://aurorascan.dev/address/0x13e7a001EC72AB30D66E2f386f677e25dCFF5F59)
+* LPToken Base: [0xcDDc83E58F9C1d6E9916b6Cfa7143B35D125FF74](https://aurorascan.dev/address/0xcDDc83E58F9C1d6E9916b6Cfa7143B35D125FF74)
+* AmplificationUtils: [0xA5782838b39cD618584236614E36F9c9a1b8E50e](https://aurorascan.dev/address/0xA5782838b39cD618584236614E36F9c9a1b8E50e)
+* SwapUtils: [0x931E03d5A01dB8Cb0C68B3118E502AD1B3163066](https://aurorascan.dev/address/0x931E03d5A01dB8Cb0C68B3118E502AD1B3163066)
+* LpToken: [0x3fADE6094373f7A91A91D4607b226791fB3BCEAf](https://aurorascan.dev/address/0x3fADE6094373f7A91A91D4607b226791fB3BCEAf)
+* SwapFlashLoan: [0x51d96EF6960cC7b4C884E1215564f926011A4064](https://aurorascan.dev/address/0x51d96EF6960cC7b4C884E1215564f926011A4064)
+
+### nUSD-USDC/USDT Metapool
+* MetaSwapUtils: [0xedbc9d412854585F71c3765697167b462e51B9C6](https://aurorascan.dev/address/0xedbc9d412854585F71c3765697167b462e51B9C6)
+* LpToken: [0xffb69779f14E851A8c550Bf5bB1933c44BBDE129](https://aurorascan.dev/address/0xffb69779f14E851A8c550Bf5bB1933c44BBDE129)
+* MetaSwap: [0x3CE7AAD78B9eb47Fd2b487c463A17AAeD038B7EC](https://aurorascan.dev/address/0x3CE7AAD78B9eb47Fd2b487c463A17AAeD038B7EC)
+* MetaSwapDeposit:
+[0xCCd87854f58773fe75CdDa542457aC48E46c2D65](https://aurorascan.dev/address/0xCCd87854f58773fe75CdDa542457aC48E46c2D65)
+
 
     ### Note
     * LP Token cannot be verified, blocked by internal transactions in aurorascan
