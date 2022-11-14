@@ -7,16 +7,17 @@ We have deployed the following contracts on the Aurora engine.
 * Factory: `0xc66F594268041dB60507F00703b152492fb176E7`
 * Router: `0x2CB45Edb4517d5947aFdE3BEAbF95A582506858B`
 * WETH: `0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB`
-* MasterChef V1 Staking Contract: `0x1f1Ed214bef5E83D8f5d0eB5D7011EB965D0D79B`
-* MasterChef V2 Staking Contract: `0x3838956710bcc9D122Dd23863a0549ca8D5675D6`
-* TRI ERC20: `0xFa94348467f64D5A457F75F8bc40495D33c65aBB`
-* xTRI (Tribar): `0x802119e4e253D5C19aA06A5d567C5a41596D6803`
-* Tri Maker: `0xe793455c9728fc91A3E5a33FAfF9eB2F228aE151`
+* MasterChef V1 Staking Contract: [0x1f1Ed214bef5E83D8f5d0eB5D7011EB965D0D79B](https://aurorascan.dev/address/0x1f1Ed214bef5E83D8f5d0eB5D7011EB965D0D79B)
+* MasterChef V2 Staking Contract: [0x3838956710bcc9D122Dd23863a0549ca8D5675D6](https://aurorascan.dev/address/0x3838956710bcc9D122Dd23863a0549ca8D5675D6)
+* TRI ERC20: [0xFa94348467f64D5A457F75F8bc40495D33c65aBB](https://aurorascan.dev/address/0xFa94348467f64D5A457F75F8bc40495D33c65aBB)
+* xTRI (Tribar): [0x802119e4e253D5C19aA06A5d567C5a41596D6803](https://aurorascan.dev/address/0x802119e4e253D5C19aA06A5d567C5a41596D6803)
+* Tri Maker: [0xe793455c9728fc91A3E5a33FAfF9eB2F228aE151](https://aurorascan.dev/address/0xe793455c9728fc91A3E5a33FAfF9eB2F228aE151)
 * pTRI (profit TRI): [0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689](https://aurorascan.dev/address/0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689)
 * USDC Maker: [0x5EBd5e963A00500B6a1234c621811c52AF0aAade](https://aurorascan.dev/address/0x5EBd5e963A00500B6a1234c621811c52AF0aAade)
 * Stable LP Maker: [0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF](https://aurorascan.dev/address/0xcB251907382aEB3C2edAb766561D5F4E6c78E3FF)
 * Stable LP Maker v2: [0x2DF95Be842cd68062Ecdb7a30cA8dD400a8ab86B](https://aurorascan.dev/address/0x2DF95Be842cd68062Ecdb7a30cA8dD400a8ab86B)
 * Stable LP Maker v3: [0x84c1b1986766fD32cfAC340f947217bd1fB8ADed](https://aurorascan.dev/address/0x84c1b1986766fD32cfAC340f947217bd1fB8ADed)
+* Stable LP Maker v4: [0x5174F1F043A9C66C58f62C3b81a24fb0F31DE94A](https://aurorascan.dev/address/0x5174F1F043A9C66C58f62C3b81a24fb0F31DE94A)
 * DAO: [0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3)
 
 
@@ -113,6 +114,13 @@ We have deployed the following contracts on the Aurora engine.
 * MetaSwap: [0x3CE7AAD78B9eb47Fd2b487c463A17AAeD038B7EC](https://aurorascan.dev/address/0x3CE7AAD78B9eb47Fd2b487c463A17AAeD038B7EC)
 * MetaSwapDeposit:
 [0xCCd87854f58773fe75CdDa542457aC48E46c2D65](https://aurorascan.dev/address/0xCCd87854f58773fe75CdDa542457aC48E46c2D65)
+
+### axlUSD-USDC/USDT Metapool
+* MetaSwapUtils: [0x87009564b6DFC02256144FaD855c92eC3a384bB6](https://aurorascan.dev/address/0x87009564b6DFC02256144FaD855c92eC3a384bB6)
+* LpToken: [0x08A8d7dD6E20997680DFd7a5fc7929309c299D72](https://aurorascan.dev/address/0x08A8d7dD6E20997680DFd7a5fc7929309c299D72)
+* MetaSwap: [0x51d96EF6960cC7b4C884E1215564f926011A4064](https://aurorascan.dev/address/0x51d96EF6960cC7b4C884E1215564f926011A4064)
+* MetaSwapDeposit:
+[0xB8e6c85f18525573AaaBdC11a665a5dB4357F54a](https://aurorascan.dev/address/0xB8e6c85f18525573AaaBdC11a665a5dB4357F54a)
 
 
     ### Note
