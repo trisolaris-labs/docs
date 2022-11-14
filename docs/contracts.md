@@ -19,6 +19,7 @@ We have deployed the following contracts on the Aurora engine.
 * Stable LP Maker v3: [0x84c1b1986766fD32cfAC340f947217bd1fB8ADed](https://aurorascan.dev/address/0x84c1b1986766fD32cfAC340f947217bd1fB8ADed)
 * Stable LP Maker v4: [0x5174F1F043A9C66C58f62C3b81a24fb0F31DE94A](https://aurorascan.dev/address/0x5174F1F043A9C66C58f62C3b81a24fb0F31DE94A)
 * DAO: [0xf86119de6ee8d4447C8219eEC20E7561d09816d3](https://aurorascan.dev/address/0xf86119de6ee8d4447C8219eEC20E7561d09816d3)
+* Ops Multisig: [0x99cbfCf7134228e12e9ED0F534C73C85A03C91E1](https://aurorascan.dev/address/0x99cbfCf7134228e12e9ED0F534C73C85A03C91E1)
 
 
 ## LP Pool Pair Addresses
