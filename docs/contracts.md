@@ -64,6 +64,7 @@ We have deployed the following contracts on the Aurora engine.
 * TRI-REF: `0x53b65177803993C84F31AF4aE7E52FEB171b3b84`
 * stNEAR-META: `0x25bED9DDD30c21a698ba0654f8Da0F381CA1A67b`
 * wNEAR-PLY: `0x044b6b0cd3bb13d2b9057781df4459c66781dce7`
+* wNEAR-NearX:`0xa904cc86e3ab79ae44caa7f13bdc13ffacbbff35`
 
 ## Rewarder Contracts (for multi rewards)
 
@@ -92,6 +93,7 @@ We have deployed the following contracts on the Aurora engine.
 * BRRR-wNEAR : `0x9a418aB67F94164EB931344A4EBF1F7bDd3E97aE`
 * TRI-REF: `0xD61a0095E287b899D5A3ADf40e51d97237BBaB6B`
 * wNEAR-PLY: `0xF1469a96be8C82E5D5a9B0010eDeC77BdB319448`
+* wNEAR-NearX: `0xd3Faa39C97Af70ADff9851e0e70A08FcfeCaBCC4`
 
 ## Stableswap Contracts
 
