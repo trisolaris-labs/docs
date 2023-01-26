@@ -125,6 +125,13 @@ We have deployed the following contracts on the Aurora engine.
 * MetaSwapDeposit:
 [0xB8e6c85f18525573AaaBdC11a665a5dB4357F54a](https://aurorascan.dev/address/0xB8e6c85f18525573AaaBdC11a665a5dB4357F54a)
 
+### auUSDC/auUSDT
+* MetaSwapUtils: [0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663](https://aurorascan.dev/address/0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663)
+* LpToken: [0x895BDc6644Ae2652dB22b9387b004C091eF868fE](https://aurorascan.dev/address/0x895BDc6644Ae2652dB22b9387b004C091eF868fE)
+* MetaSwap: [0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663](https://aurorascan.dev/address/0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663)
+* MetaSwapDeposit:
+[0x46F27692de8aA76E86e7E665e573828b9ddcB2b8](https://aurorascan.dev/address/0x46F27692de8aA76E86e7E665e573828b9ddcB2b8)
+
 
     ### Note
     * LP Token cannot be verified, blocked by internal transactions in aurorascan
