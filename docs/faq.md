@@ -1,10 +1,10 @@
 # Frequently Asked Questions (FAQ's)
 
-## Does Trisolaris have no gas fees?
-Currently transaction fees are **zero** on Aurora they will be switched on in the future [(doc)](https://doc.aurora.dev/develop/compat/gas). Nonetheless, they will still be several orders of magnitudes less than fees on ethereum, and transaction confirmation times will be in few seconds. 
+## What token is used as gas on Trisolaris?
+Ethereum is used as gas on the Aurora network. 
 
 ## How can I transfer tokens to Aurora?
-Tokens can be transferred from both Ethereum ecosystem and Near ecosystem to the Aurora engine.
+There are many bridges connected to the Aurora network, please see our "Bridges" tab on our site.
 
 * **Ethereum <> Aurora Bridge**: 
     * ETH and ERC20 Tokens can be transferred from Ethereum to Aurora using the bridge available [here](https://aurora.dev/bridge). 
