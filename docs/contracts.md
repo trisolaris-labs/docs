@@ -132,7 +132,7 @@ We have deployed the following contracts on the Aurora engine.
 [0xB8e6c85f18525573AaaBdC11a665a5dB4357F54a](https://aurorascan.dev/address/0xB8e6c85f18525573AaaBdC11a665a5dB4357F54a)
 
 ### auUSDC/auUSDT
-* MetaSwapUtils: [0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663](https://aurorascan.dev/address/0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663)
+* MetaSwapUtils: [0x2F928da9eaeCECA6f1D284f48589F7E456A1aBc2](https://aurorascan.dev/address/0x2F928da9eaeCECA6f1D284f48589F7E456A1aBc2)
 * LpToken: [0x895BDc6644Ae2652dB22b9387b004C091eF868fE](https://aurorascan.dev/address/0x895BDc6644Ae2652dB22b9387b004C091eF868fE)
 * MetaSwap: [0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663](https://aurorascan.dev/address/0x0982eBCbf1B77b4dBFB6BcAD62340687237Ac663)
 * MetaSwapDeposit:
